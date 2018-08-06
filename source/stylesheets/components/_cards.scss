@@ -40,9 +40,18 @@
   right: 0;
   width: 100%;
   z-index: 2;
-  background: black;
+  background: $green;
   opacity: 0;
 }
 .card-link:hover {
   opacity: 0.1;
 }
+
+
+
+.row{
+padding: 50px;
+width: 100%;
+background-color: black;
+}
+
